@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "Enter the URL of the existing repository:"
-read repo_url
+#echo "Enter the URL of the existing repository:"
+#read repo_url
 
 # Prompt for the new branch name
 echo "Enter the name of the new branch:"
